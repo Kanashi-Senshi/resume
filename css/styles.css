@@ -1,0 +1,15 @@
+img{
+    float: left;
+}
+.description{
+    width: 33.33%;
+    float: left;
+}
+.title{
+    font-size: large;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.rest{
+    width: 100%;
+}
